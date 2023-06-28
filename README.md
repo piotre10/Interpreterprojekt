@@ -1,6 +1,8 @@
 # Interpreterprojekt
 
-That's project that me and 2 of my friends written for BITEhack 2021. That program is capable of compiling and executing algorithmic notation that was presented to us by professor at academia.
+Although little bit spaghetti it was a lot of fun!
+
+That's project that me and 2 of my friends: [Adam Lewiński](https://github.com/lewi9), [Marcin Makulec](#) written for BITEhack 2021. That program is capable of compiling and executing algorithmic notation that was presented to us by professor at academia.
 
 ### Komendy.py
 
